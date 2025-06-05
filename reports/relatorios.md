@@ -54,9 +54,3 @@ O estudo revelou nuances importantes na comparação entre Piastri e Norris, mos
 
 ---
 
-## Apêndices
-
-### A. Estrutura dos arquivos CSV
-
-Breve descrição das colunas presentes em cada arquivo de dados utilizado.
-
