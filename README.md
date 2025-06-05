@@ -60,5 +60,6 @@ Os dados foram coletados e organizados em tabelas CSV contendo informações det
 
 ## Autor
 
-Keylla Carvalho - [[Meulinkedin](https://www.linkedin.com/in/keyllascarvalho/)]
+Keylla Carvalho - [Meulinkedin](https://www.linkedin.com/in/keyllascarvalho/)
+
 Projeto desenvolvido para fins educacionais e portfólio pessoal.
